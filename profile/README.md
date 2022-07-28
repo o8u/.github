@@ -1,4 +1,3 @@
-#### Hey, this is us 👋
 
 &nbsp;
 
@@ -34,7 +33,7 @@
 
 
 <!--
-	<img src="https://user-images.githubusercontent.com/1629293/181413787-cd8a066c-6371-4ade-84db-63ce3b2b75c7.png" height="0" width="0"/>
-  
+#### Hey, this is us 👋
+<img src="https://user-images.githubusercontent.com/1629293/181413787-cd8a066c-6371-4ade-84db-63ce3b2b75c7.png" height="0" width="0"/>  
 -->
 
